@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+h1{
+  color: cornflowerblue;
+}
+
+p{
+  font-size: smaller;
+}
+
+dd{
+  background-color: aqua;
+}
+dt{
+  background-color: rgb(164, 241, 208);
+}
